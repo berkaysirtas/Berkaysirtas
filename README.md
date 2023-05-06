@@ -1,15 +1,27 @@
-Hello 👋, I'm @Berkaysirtas.
+<div align="center">
 
-The reason I'm here is that I don't want to build my life solely around web and CRM technologies. I have a strong interest in this field and I'm currently learning C# and JavaScript to improve myself.
+  <h1>Hello 👋, I'm Berkay Sırtaş!</h1>
+  <h3>I am an inquisitive and creative web developer taking my first steps in the world of web development.</h3>
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
+</div>
 
-I have a big vision for the future: to increase the success of businesses in the digital world and make people's lives easier. I believe that technology is a crucial tool in achieving these goals. That's why I develop unique and inspiring projects using the latest technologies.
+---
 
-The projects I develop offer innovative solutions that help businesses optimize their workflows and grow. They are designed to make people's lives easier and more efficient.
+###  🔥 Skills:
 
-However, I don't just focus on my own development. I also keep up with the latest trends in the technology world and continuously improve my projects to meet my customers' needs.
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-If you're interested in working with me or learning more about my projects, please don't hesitate to contact me! Together, we can contribute to a better future.
-<!---
-Berkaysirtas/Berkaysirtas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Currently learning:
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+ ### 📫 Contact:
+
+[![Website: berkaysirtas.com](https://img.shields.io/badge/Website-berkaysirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.berkaysirtas.com)
+[![GitHub: Berkaysirtas](https://img.shields.io/github/followers/Berkaysirtas?label=follow&style=social)](https://github.com/Berkaysirtas)
+[![LinkedIn: berkaysirtas](https://img.shields.io/badge/-Berkay%20Şirtaş-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkay-sirtas/)](https://www.linkedin.com/in/berkaysirtas/)
+[![Mail: berkaysirtas@outlook.com](https://img.shields.io/badge/-E--posta-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:berkaysirtas@outlook.com)](mailto:berkaysirtas@outlook.com)
