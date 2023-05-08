@@ -1,33 +1,35 @@
-<div align="center">
+<!-- This is Header -->
+<h1>🙋‍♂️ Hello! Ben Berkay Şırtaş </h1>
 
-  <h1>Hello 👋, I'm Berkay Sırtaş!</h1>
-  <h3>I am an inquisitive and creative web developer taking my first steps in the world of web development.</h3>
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
-</div>
+<img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
 
----
-###  🔥 Skills:
 
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!-- Introduction -->
+<h3>I am an inquisitive and creative web developer taking my first steps in the world of web development.</h3>
 
-### 🌱 Currently learning:
+- I am learning <b>full-stack</b> web development.
+- I am a creative and passionate full-stack web developer, proficient in HTML, CSS, and JavaScript.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<!-- My Skills -->
+###  🔥 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,angular,js,github,git,figma&perline=8)](https://skillicons.dev)
 
- ### 📫 Contact:
+<!-- My Currently learning -->
+### 🌱 Currently learning
+[![My Skills](https://skillicons.dev/icons?i=dotnet&perline=8)](https://skillicons.dev)
 
-[![Website: berkaysirtas.com](https://img.shields.io/badge/Website-berkaysirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://berkaysirtas.com)
-[![GitHub: Berkaysirtas](https://img.shields.io/github/followers/Berkaysirtas?label=follow&style=social)](https://github.com/Berkaysirtas)
-[![LinkedIn: berkaysirtas](https://img.shields.io/badge/-Berkay%20Şirtaş-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berkay-sirtas/)](https://www.linkedin.com/in/berkaysirtas/)
-[![Mail: berkaysirtas@outlook.com](https://img.shields.io/badge/-E--posta-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:berkaysirtas@outlook.com)](mailto:berkaysirtas@outlook.com)
 
+<!-- Socials stats -->
+### 📫 Contact
+<a href="https://www.linkedin.com/in/berkaysirtas/"><img src="https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue?style=flat&logo=linkedin"></a>
+<a href="https://berkaysirtas.com"><img src="https://img.shields.io/badge/visit%20my-website-orange?style=flat&logo=google-chrome"></a>
+<a href="mailto:berkaysirtas@outlook.com"><img src="https://img.shields.io/badge/email%20me-blue?style=flat&logo=gmail"></a>
+
+
+<!-- GitHub stats -->
 ### 📊 GitHub Stats:
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=berkaysirtas&theme=jolly&hide_border=false&include_all_commits=true&count_private=true" style="width: 33%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berkaysirtas&theme=jolly&hide_border=false" style="width: 33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaysirtas&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 33%" />
-</div>
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=berkaysirtas&show_icons=true&theme=dark&hide_border=true&count_private=true" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaysirtas&theme=dark&hide_border=true&layout=compact&count_private=true" height="190" />
+</p>
+
