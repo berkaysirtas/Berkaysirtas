@@ -23,7 +23,6 @@
 ### 📫 Contact
 <a href="https://www.linkedin.com/in/berkaysirtas/"><img src="https://img.shields.io/badge/connect%20with%20me%20on-linkedin-blue?style=flat&logo=linkedin"></a>
 <a href="https://berkaysirtas.com"><img src="https://img.shields.io/badge/visit%20my-website-orange?style=flat&logo=google-chrome"></a>
-<a href="mailto:berkaysirtas@outlook.com"><img src="https://img.shields.io/badge/email%20me-blue?style=flat&logo=gmail"></a>
 
 
 <!-- GitHub stats -->
