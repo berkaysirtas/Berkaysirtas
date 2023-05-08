@@ -26,7 +26,7 @@
 
 
 <!-- GitHub stats -->
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=berkaysirtas&show_icons=true&theme=dark&hide_border=true&count_private=true" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaysirtas&theme=dark&hide_border=true&layout=compact&count_private=true" height="190" />
