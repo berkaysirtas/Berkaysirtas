@@ -1,5 +1,5 @@
 <!-- This is Header -->
-<h1>🙋‍♂️ Hello! Ben Berkay Şırtaş </h1>
+<h1>🙋‍♂️ Hello! I Berkay Şırtaş </h1>
 
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
 
@@ -32,4 +32,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=berkaysirtas&show_icons=true&theme=dark&hide_border=true&count_private=true" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaysirtas&theme=dark&hide_border=true&layout=compact&count_private=true" height="190" />
 </p>
-
