@@ -1,5 +1,5 @@
 <!-- This is Header -->
-<h1>🙋‍♂️ Hello! I Berkay Şırtaş </h1>
+<h1>Hello! I Berkay Şırtaş </h1>
 
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="30%">
 
